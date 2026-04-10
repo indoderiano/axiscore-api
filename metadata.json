@@ -1,0 +1,5 @@
+{
+  "name": "Bruce Wayne Data Server",
+  "description": "A full-stack application with an Express backend serving user data and a React frontend.",
+  "requestFramePermissions": []
+}
